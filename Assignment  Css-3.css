@@ -1,0 +1,41 @@
+body {
+    background-image: url(./Image/pexels-simon-berger-1266810.jpg);
+    background-size: 100%;
+    color: rgb(194, 236, 236);
+}
+
+.outer {
+    background-image: url(./Image/pexels-simon-berger-1266810.jpg);
+    background-size: 100%;
+     width: 40%; 
+     height: 50vh; 
+     padding: 5vh; 
+     margin: auto ; 
+     color: rgb(7, 6, 6); 
+     border-radius: 2rem;
+     
+}
+label {
+    margin-left: 10%;
+}
+input {
+    margin-left: 10%;
+    height: 7vh; 
+    width: 75%;
+    border-radius: 4px;
+    background-color: rgb(242, 208, 250);
+    opacity: 0.5;
+} 
+button {
+    margin-left: 10%;
+    background-image: linear-gradient(120deg, #44a8d6, #751588);
+    border: none;
+    width: 77%;
+    height: 7vh;
+    margin-bottom: 5%;
+    color: aliceblue;
+    opacity: 0.9;
+}
+p {
+    text-align: center;
+}
